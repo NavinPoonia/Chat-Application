@@ -2,11 +2,11 @@
 Making A Multiple User Chat Application Using NodeJS Server And Web Socket.IO
 
 
-1 - User Has To Enter His Name To Join The Chat 
+1 - User Has To Enter His Name To Join The Chat.
 
-2 - When A User Joins The Chat It is Notified To Other User
+2 - When A User Joins The Chat It is Notified To Other Users.
   
-3 - A Notification Ringtone is played Whenever A Message Is Recieved
+3 - A Notification Ringtone is played Whenever A Message Is Recieved.
 
-4 - When A user Leaves The Chat It is Notified To Other Users
+4 - When A user Leaves The Chat It is Notified To Other Users.
   
