@@ -13,3 +13,7 @@ A duplex communication system is a point-to-point system composed of two or more
 
 4 - When A user Leaves The Chat It is Notified To Other Users.
   
+
+
+https://user-images.githubusercontent.com/85392154/137301070-a544796d-83e0-431a-9708-21e9cff93fe9.mp4
+
